@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "542576983788",
+    "firebase_url": "https://lusa-18.firebaseio.com",
+    "project_id": "lusa-18",
+    "storage_bucket": "lusa-18.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542576983788:android:ef21910cf9074952",
+        "android_client_info": {
+          "package_name": "com.nimesh.macbook.mylocation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "542576983788-1upe3iasul7as2aibp7grt9973nq84ro.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6dheoP1JIegf9SjUIaTXJaHUcgUZpm3E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
